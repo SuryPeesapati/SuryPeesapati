@@ -1,4 +1,4 @@
-👋 Hi, I’m Surya Peesapati, a Business Analytics graduate from IIM Trichy with a passion for technology and AI/ML.
+👋 Hi, I’m Surya Peesapati, a Business Analytics graduate from IIM Trichy with a passion for technology and AI/ML. I'm having 10+ years of experience in FinTech industry.
 
 ## About Me
 I’m interested in exploring how data and technology can drive business decisions. Currently, I’m diving deep into AI/ML, focusing on Generative AI.
