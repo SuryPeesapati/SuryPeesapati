@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @SuryPeesapati
-- 👀 I’m interested in Tech, Books and learning new things
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on GenAI projects
-- 📫 How to reach me Sury.peesapati@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy finding the most efficient ways to get things done!
+👋 Hi, I’m Surya Peesapati, a Business Analytics graduate from IIM Trichy with a passion for technology and AI/ML.
 
-<!---
-SuryPeesapati/SuryPeesapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I’m interested in exploring how data and technology can drive business decisions. Currently, I’m diving deep into AI/ML, focusing on Generative AI.
+
+## Skills
+- **Programming Languages:** Python, SQL
+- **Tools & Frameworks:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy
+- **Data Visualization:** Tableau, Power BI
+- **Machine Learning & AI:** Supervised/Unsupervised Learning, NLP, Deep Learning
+- **Business Analytics:** Predictive Analytics, Data Mining, Statistical Analysis
+
+## Projects
+Here are some of the projects I’ve worked on:
+
+1. **Forcasting patient head-count anf Predicting No-show**: Patient No Show for Brazil Hospitals using Power BI, SPSS Statistics and Python for EDA, Logistic Regression, Factor Analysis and Predictive Analytics.
+2. **Analysing IPL 2024**: IPL 2024 Dashboard using Power BI and Python.
+
+## Contact
+- 📫 Reach me at: sury.peesapati@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/surya-peesapati/)
